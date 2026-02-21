@@ -1,0 +1,4 @@
+#!/bin/sh
+cd "$(git rev-parse --show-toplevel)"
+python3 build.py || exit 1
+git add index.html
