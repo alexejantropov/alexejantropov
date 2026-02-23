@@ -2,7 +2,7 @@ Hello, world!👋
 
 Ich bin Alexej.
 - Interim Product Manager.
-- KI-Beauftragter gem EU AI Act.
+- [KI-Beauftragter gem EU AI Act](https://media.licdn.com/dms/image/v2/D4D2DAQHMU3G3Yw0iSw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1730236049223?e=1772373600&v=beta&t=z6eSkfCqjb8L74pY2The3JoLoc97ux-o8TFHsIUuyoE).
 - Dozent Business Innovation @[FOM](https://www.fom.de).
 - Co-Author [AgileProductManifesto.com](https://AgileProductManifesto.com).
 - Erfinder des [KI-Radars für Produktentwicklung](https://www.beyondbacklog.de/p/das-ki-radar-fur-produktmanagement-und-software-entwicklung).
@@ -65,7 +65,7 @@ Mein Motto: *less poor products. less poor companies.*
 Cursor, Notion AI, Perplexity, Gemini, NotebookLM, Claude, Warp, Replit, Bolt, Magic Patterns, WisprFlow, Granola, DeepL.
 
 ### Ich nutze nicht mehr
-ChatGPT, you.com, Miro AI, v0, Lovable, rocket.new, napkin.ai, uizard, Poe, banani, Galileo AI, Midjourney, n8n, ChatPRD, RowsUp, MacWhisper, Apps Script,...
+ChatGPT, you.com, Miro AI, v0, Lovable, rocket.new, napkin.ai, uizard, Poe, banani, Galileo AI, Midjourney, n8n, ChatPRD, RowsUp, MacWhisper, Apps Script, Firebase,...
 
 ### Nutze ich (noch) nicht
 Claude Code, Openclaw, Figma Make, Visily, jeda.ai,...

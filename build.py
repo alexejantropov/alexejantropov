@@ -83,6 +83,7 @@ def main() -> None:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Alexej Antropov – 20+ Jahre Digital Products und Transformation. Interim Product Manager, Dozent Business Innovation, Erfinder KI-Radar für Produktentwicklung, Co-Author Agile Product Manifesto.">
 <title>Alexej Antropov | Digital Products &amp; Transformation</title>
+<style>main{{max-width:1337px;margin:0 auto}}</style>
 </head>
 <body>
 <main role="main">
