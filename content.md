@@ -62,7 +62,7 @@ Mein Motto: *less poor products. less poor companies.*
 
 ## Das mit KI
 ### Ich nutze
-Cursor, Notion AI, Claude Code, Perplexity, Gemini, Coment, NotebookLM, Claude, Warp, Replit, Bolt, Magic Patterns, WisprFlow, Granola, DeepL.
+Cursor, Notion AI, Claude Chat/Code/Cowork, Perplexity, Gemini, Comet, NotebookLM, Claude, Warp, Replit, Bolt, Magic Patterns, WisprFlow, Granola, DeepL.
 
 ### Ich nutze nicht mehr
 ChatGPT, you.com, Miro AI, v0, Lovable, rocket.new, napkin.ai, uizard, Poe, banani, Galileo AI, Midjourney, n8n, ChatPRD, RowsUp, MacWhisper, Apps Script, Firebase,...
