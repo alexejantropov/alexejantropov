@@ -6,6 +6,7 @@ Ich bin Alexej.
 - Dozent Business Innovation @[FOM](https://www.fom.de).
 - Co-Author [AgileProductManifesto.com](https://AgileProductManifesto.com).
 - Erfinder des [KI-Radars für Produktentwicklung](https://www.beyondbacklog.de/p/das-ki-radar-fur-produktmanagement-und-software-entwicklung).
+- Lehrbeauftragter für KI-Projekte @[TH Rosenheim](https://www.th-rosenheim.de)
 - Früher Eishockey und Gleitschirm. 
 - Heute [West Coast Swing Tänzer](https://instagram.com/alexejantropov/). 
 - Gründer von [fomo.dance](https://fomo.dance).
